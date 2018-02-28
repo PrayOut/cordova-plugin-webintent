@@ -1,0 +1,31 @@
+{
+  "name": "appursite-plugin-webintent",
+  "version": "1.0.1",
+  "description": "Web intents for Cordova",
+  "cordova": {
+    "id": "appursite-plugin-webintent",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PrayOut/cordova-plugin-webintent.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "engines": {
+    "cordovaDependencies": {
+      "1.0.1": {
+        "cordova": ">3.3.0"
+      }
+    }
+  },
+  "author": "",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/PrayOut/cordova-plugin-webintent/issues"
+  }
+}
